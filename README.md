@@ -7,7 +7,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></h1>
 
-<h1 align="center">नमस्ते (Namaste) 🙏🏻, I am [Pradip Banjara👨‍💻(प्रदिप)](https://pradipbanjara.com.np/) </h1>
+<h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Pradip Banjara👨‍💻</h1>
 <h3 align="center">A Passionate Frontend Web Developer From Beautiful Country Nepal.</h3>
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Barca+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline" /> 
