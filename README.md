@@ -6,7 +6,9 @@
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" /> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></h1>
-
+<a href="https://wakatime.com/@bpradiip" target="_blank">
+	<img src="https://wakatime.com/badge/user/91888085-4bf3-4711-bea3-9955e0e2fa49.svg?style=for-the-badge" />
+</a>
 ## <h1 align="center">नमस्ते (Namaste) 🙏🏻 , I am [Pradip Banjara👨‍💻(प्रदिप)](https://pradipbanjara.com.np/) </h1>
 <h3 align="center">A Passionate Frontend Web Developer From Beautiful Country Nepal.</h3>
 <div align=center> 
