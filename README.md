@@ -3,9 +3,9 @@
 </br>
 </div>
 <h1 align="center">🕉 जय पशुपतिनाथ:</h1>
-<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" /> 
+<p1 align="center"> <img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" /> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></h1>
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></p1>
 
 <h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Pradip Banjara👨‍💻</h1>
 <h3 align="center">A Passionate Frontend Web Developer From Beautiful Country Nepal.</h3>
