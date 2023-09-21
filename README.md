@@ -6,6 +6,7 @@
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" /> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></h1>
+
 <h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Pradip Banjara👨‍💻</h1>
 <h3 align="center">A Passionate Frontend Web Developer From Beautiful Country Nepal.</h3>
 <div align=center> 
