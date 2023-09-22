@@ -3,6 +3,7 @@
 <img src="p.png"/> 
 </br>
 </div>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <h1 align="center">🕉 जय पशुपतिनाथ:</h1>
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
