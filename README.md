@@ -1,4 +1,8 @@
 <div align="center">
+  <img alt="Welcome" src="pictures/welcome.svg">
+</div>
+
+<div align="center">
 <img src="p.png"/> 
 </br>
 </div>
