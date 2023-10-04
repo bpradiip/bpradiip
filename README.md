@@ -10,7 +10,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></p>
 
-![](https://github-profile-trophy.vercel.app/?username=bpradiip&row=1&margin-w=5&margin-h=5)
+<p align="center">![](https://github-profile-trophy.vercel.app/?username=bpradiip&row=1&margin-w=5&margin-h=5)</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
