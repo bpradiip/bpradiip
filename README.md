@@ -11,6 +11,16 @@
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/CodeMaster7000)
+[![GitHub Followers](https://img.shields.io/github/followers/CodeMaster7000?label=Followers&style=social)](https://github.com/CodeMaster7000)
+![GitHub Stars](https://img.shields.io/github/stars/CodeMaster7000?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+[![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCePMOz0r5c2wqxroH_gs0gQ?label=Subscribers&style=social)](https://www.youtube.com/channel/UCePMOz0r5c2wqxroH_gs0gQ)
+[![Gmail Badge](https://img.shields.io/badge/-CodeMaster7K@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:CodeMaster7K@gmail.com)](mailto:CodeMaster7K@gmail.com)   
+
+![hello-world](https://github.com/CodeMaster7000/CodeMaster7000/assets/95772109/6d2c454a-6062-4090-b3ee-0845d5e6b321)
+
+
+
 <h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Pradip Banjara👨‍💻</h1>
 <h3 align="center">A Passionate Frontend Web Developer From Beautiful Country Nepal.</h3>
 
