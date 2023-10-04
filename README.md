@@ -9,14 +9,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></p>
+
+![](https://github-profile-trophy.vercel.app/?username=bpradiip&row=1&margin-w=5&margin-h=5)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Pradip Banjara👨‍💻</h1>
 <h3 align="center">A Passionate Frontend Web Developer From Beautiful Country Nepal.</h3>
-
-
-![](https://github-profile-trophy.vercel.app/?username=bpradiip&row=1&margin-w=5&margin-h=5)
-
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Barca+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline" /> 
