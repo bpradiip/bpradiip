@@ -12,6 +12,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=bpradiip&row=1&margin-w=5&margin-h=5) </p>
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bpradiip&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Pradip Banjara👨‍💻</h1>
