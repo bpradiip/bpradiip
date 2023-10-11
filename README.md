@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" /> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip">   </p></p>
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bpradiip&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
