@@ -56,3 +56,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bpradiip&show_icons=true&locale=en" alt="bpradiip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpradiip&" alt="bpradip" /></p>
+
+
+<div align="center">
+  <a href="https://bpradiip.github.io/bpradiip/">
+    <img src="https://github.com/bpradiip/bpradiip/blob/main/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
