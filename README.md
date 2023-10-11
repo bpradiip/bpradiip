@@ -55,3 +55,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bpradiip&show_icons=true&locale=en" alt="bpradiip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpradiip&" alt="bpradip" /></p>
+
+
+<div>
+![Snake animation](https://github.com/bpradiip/bpradiip/blob/output/github-contribution-grid-snake.svg) 
+</div>
