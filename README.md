@@ -10,6 +10,8 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip">  </p>
 
+[![Image of my-profile-view-counter](https://github.com/bpradiip/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/bpradiip/my-profile-view-counter/blob/master/readme/372372861/week.md)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bpradiip&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
