@@ -200,17 +200,10 @@
 <!-- activity graph heroku-app end -->
 
 
-<p align="center">
-<a href="https://wakatime.com/@bpradiip"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=bpradiip&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@bpradiip's wakatime stats"/></a>
-<a href="https://github.com/bpradiip?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bpradiip&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@bpradiip's trophy stats"/></a>
-</p>
-
-
-
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/bpradiip"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="bpradiip" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpradiip&show_icons=true&locale=en&layout=compact" width="100%" alt="bpradiip" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpradiip&show_icons=true&locale=en&layout=compact" width="70%" alt="bpradiip" /></p>
 
 <a href=#><img src="contributions.svg"></a>
