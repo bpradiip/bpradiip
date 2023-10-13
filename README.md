@@ -30,7 +30,7 @@
 
  <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
-- 🔭 I’m currently work on **School & Cooperative Website**
+-  🔭 I’m currently work on **School & Cooperative Website**
 
 -  🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
 
