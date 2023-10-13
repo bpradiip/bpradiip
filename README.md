@@ -32,6 +32,8 @@
 
 - 🔭 I’m currently work on **School & Cooperative Website**
 
+-  🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
+
 - 👨‍💻 All of my projects are available at www.pradipbanjara.com.np
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP & Python**
