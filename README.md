@@ -220,7 +220,7 @@ If you're interested in working together on a project or just want to chat, feel
 
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@bpradiip">
@@ -229,6 +229,7 @@ If you're interested in working together on a project or just want to chat, feel
 </p>
 <!-- activity graph heroku-app end -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <div align="center">
   <p align="center">
@@ -236,4 +237,6 @@ If you're interested in working together on a project or just want to chat, feel
   </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <a href=#><img src="contributions.svg"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
