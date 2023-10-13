@@ -198,8 +198,8 @@
 
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/bpradiip"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="bpradiip" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/bpradiip"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="100%" alt="bpradiip" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpradiip&show_icons=true&locale=en&layout=compact" width="85%" alt="bpradiip" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpradiip&show_icons=true&locale=en&layout=compact" width="100%" alt="bpradiip" /></p>
 
 <a href=#><img src="contributions.svg"></a>
