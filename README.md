@@ -11,12 +11,8 @@
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=bpradiip&theme=radical&no-frame=false&no-bg=true&margin-w=6)
-
 
 <p align="center">
-       ## 🏆 GitHub Trophies 🏆
 <a href="https://github.com/bpradiip?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bpradiip&theme=onestar&no-frame=true&column=3&row=2"  width="70%" alt="@bpradiip's trophy stats"/></a>
 </p>
 
