@@ -196,9 +196,6 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
-<a href="https://wakatime.com/@bpradiip"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=bpradiip&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@bpradiip's wakatime stats"/></a>
-</p>
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/bpradiip"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="bpradiip" /></a></p><br><br>
