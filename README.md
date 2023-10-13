@@ -34,13 +34,13 @@
 
 - 👨‍💻 All of my projects are available at www.pradipbanjara.com.np
 
-- 💬 Ask me about **HTML, CSS & Javascript.**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP & Python**
 
 - 📫 How to reach me **info@pradipbanjara.com.np**
 
-- ⚡ Fun fact **I am always serious, 😄😄😄**
+- ⚡ Fun fact **I am always serious😄😄😄**
 
-</div>
+
 
 <div align="center">
 
