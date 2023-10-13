@@ -16,7 +16,7 @@
 
 
 <p align="center">
-<a href="https://github.com/bpradiip?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bpradiip&theme=onestar&no-frame=true&column=3&row=2"  width="80%" alt="@bpradiip's trophy stats"/></a>
+<a href="https://github.com/bpradiip?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bpradiip&theme=onestar&no-frame=true&column=3&row=2"  width="60%" alt="@bpradiip's trophy stats"/></a>
 </p>
 
 
