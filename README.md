@@ -206,7 +206,7 @@ If you're interested in working together on a project or just want to chat, feel
 
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 
 <p align="center">
@@ -216,6 +216,9 @@ If you're interested in working together on a project or just want to chat, feel
 -->
 
 <a href="https://github.com/bpradiip?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bpradiip&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@bpradiip's github-readme-stats"/></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
 <a href="https://github.com/bpradiip?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bpradiip&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@bpradiip's github-readme-streak-stats"/></a>
 
 </p>
