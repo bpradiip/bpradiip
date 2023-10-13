@@ -67,7 +67,7 @@ You can check my repositories [here](https://github.com/bpradiip?tab=repositorie
 
 ### Want to work together?
 
-If you're interested in working together on a project or just want to chat, feel free to hit me up at [info@pradipbanjara.com.np](mailto:info@pradipbanjara.com.np)!
+If you're interested in working together on a project I would love to hear from you! Wheather you have a project in mind, want to collaborate, or simply have a question, feel free to reach out to me at [info@pradipbanjara.com.np](mailto:info@pradipbanjara.com.np)!
 
 </div>
 
