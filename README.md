@@ -17,7 +17,7 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" Height=60 width="100%">
 
 
 <h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Pradip Banjara👨‍💻</h1>
