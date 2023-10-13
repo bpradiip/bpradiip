@@ -15,6 +15,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=bpradiip&theme=radical&no-frame=false&no-bg=true&margin-w=6)
 
 
+<p align="center">
+<a href="https://github.com/bpradiip?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bpradiip&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@bpradiip's trophy stats"/></a>
+</p>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
