@@ -49,7 +49,7 @@
 
 ### Who am I?
 
-I am a developer who enjoys creating Websites and solutions for random challenges.
+I am a passionate and dedicated individual who enjoys for solutions of random challenges with a keen interest in Graphics Designing, UI/UX, Programming, and Web Designing. Over the course of my Academic Journey, I have solid foundationin these areas and have consistently excelled in related Coursework and Projects.
 
 ### What do I do?
 
