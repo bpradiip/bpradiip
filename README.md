@@ -83,7 +83,7 @@ If you're interested in working together on a project I would love to hear from 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <h1 align="center">💻 My favorite Tools and Technologies:</h1>
-# 💻 My favorite Tools and Technologies:
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
