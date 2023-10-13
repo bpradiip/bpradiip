@@ -48,7 +48,7 @@
 
 ### Who am I?
 
-I am a developer who enjoys creating apps and solutions for random challenges.
+I am a developer who enjoys creating Websites and solutions for random challenges.
 
 ### What do I do?
 
