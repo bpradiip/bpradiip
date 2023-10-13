@@ -43,6 +43,7 @@
 - ⚡ Fun fact **I am always serious😄😄😄**
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <div align="center">
 
@@ -70,7 +71,7 @@ If you're interested in working together on a project or just want to chat, feel
 
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -79,7 +80,7 @@ If you're interested in working together on a project or just want to chat, feel
 <a href="https://instagram.com/bpradiip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bpradiip" height="30" width="40" /></a>
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
