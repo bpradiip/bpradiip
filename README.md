@@ -27,7 +27,7 @@
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Barca+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline" /> 
      </div> 
 
-
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
 <div align="center">
 
