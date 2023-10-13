@@ -40,7 +40,7 @@
 
 - ⚡ Fun fact **I am always serious, 😄😄😄**
 
-
+</div>
 
 <div align="center">
 
