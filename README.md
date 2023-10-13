@@ -27,6 +27,38 @@
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Barca+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline" /> 
      </div> 
 
+
+
+<div align="center">
+
+### Who am I?
+
+I am a developer who enjoys creating apps and solutions for random challenges.
+
+### What do I do?
+
+I work as a Front-End  Web Developer, and in my free time, I enjoy developing solutions for problems that I come across.
+
+### When do I do that?
+
+Whenever I have some free time, I love diving into different projects and playing around with various technologies and frameworks. The thing is, I tend to start a bunch of random stuff but rarely finish them. Still, I find it exciting to learn new things while working on these projects.
+
+### What are your projects?
+
+I mostly work on personal projects that I don't make public. However, the ones I do release are usually at least (almost) complete.
+
+You can check my repositories [here](https://github.com/bpradiip?tab=repositories).
+
+### Want to work together?
+
+If you're interested in working together on a project or just want to chat, feel free to contact me up at [(https://pradipbanjara.com.np/)](mailto:info@pradipbanjara.com.np)!
+
+</div>
+
+
+
+
+
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
 
 - 🔭 I’m currently work on **School & Cooperative Website**
