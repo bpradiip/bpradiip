@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=bpradiip&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=bpradiip&theme=radical&no-frame=false&no-bg=true&margin-w=6)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
