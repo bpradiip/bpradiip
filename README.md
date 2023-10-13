@@ -194,8 +194,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpradiip&show_icons=true&locale=en&layout=compact" alt="bpradiip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bpradiip&show_icons=true&locale=en" alt="bpradiip" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpradiip&" alt="bpradip" /></p>
-
 <a href=#><img src="contributions.svg"></a>
