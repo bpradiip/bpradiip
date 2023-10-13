@@ -73,7 +73,7 @@ If you're interested in working together on a project I would love to hear from 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">Connect With Me:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/bpradiip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpradiip" height="40" width="50" /></a>
 <a href="https://fb.com/bpradiip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bpradiip" height="40" width="50" /></a>
@@ -82,7 +82,7 @@ If you're interested in working together on a project I would love to hear from 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-<h1 align="center">💻 My favorite Tools and Technologies:</h1>
+<h1 align="center">💻 Favorite Tools and Technologies:</h1>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
