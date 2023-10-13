@@ -25,8 +25,21 @@
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Barca+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline" /> 
-       <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
      </div> 
+
+
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
+
+- 🔭 I’m currently work on **School & Cooperative Website**
+
+- 👨‍💻 All of my projects are available at www.pradipbanjara.com.np
+
+- 💬 Ask me about **HTML, CSS & Javascript.**
+
+- 📫 How to reach me **info@pradipbanjara.com.np**
+
+- ⚡ Fun fact **I am always serious, 😄😄😄**
+
 
 
 <div align="center">
@@ -56,20 +69,6 @@ If you're interested in working together on a project or just want to chat, feel
 </div>
 
 
-
-
-
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
-
-- 🔭 I’m currently work on **School & Cooperative Website**
-
-- 👨‍💻 All of my projects are available at www.pradipbanjara.com.np
-
-- 💬 Ask me about **HTML, CSS & Javascript.**
-
-- 📫 How to reach me **info@pradipbanjara.com.np**
-
-- ⚡ Fun fact **I am always serious, 😄😄😄**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
