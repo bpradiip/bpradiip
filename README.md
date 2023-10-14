@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif" width="100%">/>
 <div align="center">
 <img src="idcard.png"/> 
 </br>
