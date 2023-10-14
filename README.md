@@ -250,7 +250,3 @@ If you're interested in working together on a project I would love to hear from 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <a href=#><img src="contributions.svg"></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
-<p align="center">
-    <a href="https://github.com/bpradiip"><img src="git.gif "/></a> 
-</p>
