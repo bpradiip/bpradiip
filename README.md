@@ -1,13 +1,9 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <div align="center">
-<img src="p.png" /> 
-</br>
-</div>    
-
-<div align="center">
-<img src="idcard.png" /> 
+<img src="id.png" /> 
 </br>
 </div>      
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" /> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
