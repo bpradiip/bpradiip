@@ -1,4 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=bpradiip&label=Profile%20Views&color=0e75b6&style=flat" alt="bpradiip" /> 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></p>
 <div align="center">
 <img src="id.png" /> 
 </br>
