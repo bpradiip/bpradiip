@@ -48,19 +48,27 @@
 
 I am a passionate and dedicated individual who enjoys for solutions of random challenges with a keen interest in Graphics Designing, UI/UX, Programming, and Web Designing. Over the course of my Academic Journey, I have solid foundationin these areas and have consistently excelled in related Coursework and Projects.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
 ### What do I do?
 
 I work as a Front-End  Web Developer, and in my free time, I enjoy developing solutions for problems that I come across.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
 ### When do I do that?
 
 Whenever I have some free time, I love diving into different projects and playing around with various technologies and frameworks. The thing is, I tend to start a bunch of random stuff but rarely finish them. Still, I find it exciting to learn new things while working on these projects.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 ### What are your projects?
 
 I mostly work on personal projects that I don't make public. However, the ones I do release are usually at least (almost) complete.
 
 You can check my repositories [here](https://github.com/bpradiip?tab=repositories).
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 ### Want to work together?
 
