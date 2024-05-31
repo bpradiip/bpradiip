@@ -3,7 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bpradiip">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bpradiip"></p>
 <div align="center">
-<img src="p.png" /> 
+<img src="pradip.png" /> 
 </br>
 </div>      
 
